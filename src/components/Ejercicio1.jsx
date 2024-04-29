@@ -4,7 +4,7 @@ const Ejercicio1 = () => {
   return (
     <section>
       <h2>Ejercicio 1:</h2>
-      <p>Hello World</p>
+      <p>Hello World!</p>
     </section>
   );
 };
